@@ -8,9 +8,9 @@ dependencies:
   flutter:
     sdk: flutter
   mapbox_gl_platform_interface:
-    path: ./mapbox_gl_platform_interface
+    path: mapbox_gl_platform_interface
   mapbox_gl_web:
-    path: ./mapbox_gl_web
+    path: mapbox_gl_web
   collection: ^1.15.0
 
 flutter:
